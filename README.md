@@ -10,7 +10,7 @@
   <img src="./foodDelivery.gif">
 </p>
 
-## [Demo](https://saiprasannakrishna.github.io/react-foodDelivery/)
+## [Demo](https://andreymakarov12.github.io/react-foodDelivery/)
 
 React Food Delivery app enables simplified responsive UI using react-redux combinations.
 
@@ -54,5 +54,5 @@ The MIT License (MIT)
 <br/>
 
 <p align="center">
-<sub>Thank you, Sai Prasanna Krishna</sub>
+<sub>Thank you, Makarov Andrey</sub>
 </p>
